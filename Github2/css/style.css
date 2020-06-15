@@ -1,0 +1,32 @@
+body {
+	margin : 0;
+	font-family: Helvetica;
+}
+
+body h1 {
+		font-size: 30px;
+}
+
+#logo {
+	height: 100px;
+	width : 100px;
+	margin-bottom: 30px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height 80vh;
+	flex-direction: column;
+	margin-top: 90px;
+}
+
+#major {
+position: center;
+align-content: center;
+}
+
+.img {
+	size: 40px 50px;
+}
